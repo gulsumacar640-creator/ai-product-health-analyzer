@@ -4,7 +4,7 @@ import os
 import re
 import streamlit as st
 from PIL import Image
-from google import genai
+import google.genai as genai
 
 # -----------------------------------
 # AYARLAR
